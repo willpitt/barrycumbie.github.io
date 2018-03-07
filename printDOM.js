@@ -4,5 +4,5 @@ $(document).ready(function(){
 		for (i=0; i < nodeList.length; i++) {
 			console.log(document.body.childNodes[i]);
 		};
-};);
+)};
 console.log("End");
